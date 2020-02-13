@@ -55,6 +55,7 @@ function NavBar(){
     border: '1px',
     backgroundColor: 'rgba(15,15,15,.1)',
     borderRadius: '.5em',
+    padding: '10px'
   }
 
 
